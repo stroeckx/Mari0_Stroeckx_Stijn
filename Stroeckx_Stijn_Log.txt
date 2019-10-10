@@ -1,0 +1,48 @@
+Stroeckx, Stijn, 1DAE06
+Name of the game : mari0
+Release year: 2012
+Link to video with game play: https://www.youtube.com/watch?v=QEdTVp8g8AA
+Start time of game play in this video: 0:10 - 1:55
+Short description of game: the original mario game with a portal gun added to it
+
+History
+13-04-2016
+- added background with fitting svg and an (invisible) wall at the start and end of the world.
+- mario's actor can walk and jump, separate actor added for feet so wall's can no longer count as ground.
+- sprint added but way overtuned for testing purposes.
+- walking, standing and jumping animation added
+- camera (with scale) added, clamp to level added but mari0 is always in the center when not at the edge of the world.
+- added respawn when falling out of the level
+- added base class for blocks, and added wall blocks.
+
+20-04-2016
+-added goomba enemy that can kill, be killed, and move. All animations implemented, does not reverse when running into a wall (yet).
+-enemy manager class added (can be tested by adding lots of enemies)
+-added coin blocks with all animations, including the coin.
+-added bounce animation to blocks
+-added mushroom block, mushroom is spawned and can be picked up to become bigmario.
+-bigmario added. animations, interactions with enemies, dead and flicker effect impemented. actor does not change yet.
+
+27-04-2016
+-Enemies no longer have resitiution but instead but instead reflect mario up with a fixed velocity
+-bigmario can break wallblocks, which will shatter in four pieces.
+-All implemented enemies and blocks are now spawned at their correct position by the manager class,
+manager classes read this information from a text file.
+R respawns all enemies on their original position for testing
+-Mario's bitmap and portalgun now follow the mouse as in the original game.
+-Koopa and it's shell implemented, spawned, and shell can be fired to kill enemies.
+-Added hud class which shows current lives for testing, quitgame is called when lives reach 0.
+-session info is stored in Resources/GameSessions.txt, I and page up/down controls are implemented, but still have issues.
+
+04-05-2016
+-Star enemy implemented (spawning, bitmaps, picking up, and moving through the entire level)
+-Mario's flashing animation implemented
+-Special dead animation added to enemies and used when killed by a flashing mario or a shell.
+-Shells now flip every time instead of getting stuck sometimes (using raycasts instead of sensors)
+-Portal actor placeholders added and can be shot using the left mouse button
+
+18-05-2016
+-Portals can now correctly be shot and teleport mario
+-crosshair and aim line are added and change color when a portal can be spawned
+-HUD bitmap font implemented and displayed
+-horizontal velocity now ramps up and down instead of jumping to a constant velocity

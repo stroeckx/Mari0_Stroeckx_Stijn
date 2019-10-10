@@ -1,0 +1,104 @@
+<Goomba
+  Center="400,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="680,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="872,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="896,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="1288,64"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="1312,64"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="1544,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="1576,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Koopa
+  Center="1720,188"
+  Width="16"
+  Height="24"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="2008,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="2032,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="2064,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="2088,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="2782,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>
+
+<Goomba
+  Center="2806,192"
+  Width="16"
+  Height="16"
+  Velocity="-50"
+/>

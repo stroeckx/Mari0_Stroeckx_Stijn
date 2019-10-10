@@ -1,0 +1,263 @@
+<Star
+  Center="150,144"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="264,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="328,144"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="344,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="360,144"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="360,80"
+  Width="16"
+  Height="16"
+/>
+
+<Mushroom
+  Center="376,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="392,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1240,144"
+  Width="16"
+  Height="16"
+/>
+
+<Mushroom
+  Center="1256,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1272,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1288,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1304,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1320,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1336,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1352,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1368,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1384,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1400,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1464,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1480,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1496,80"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="1512,80"
+  Width="16"
+  Height="16"
+/>
+
+<InfiniteCoin
+  Center="1512,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1608,144"
+  Width="16"
+  Height="16"
+/>
+
+<Star
+  Center="1624,144"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="1702,144"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="1752,144"
+  Width="16"
+  Height="16"
+/>
+
+<Mushroom
+  Center="1752,80"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="1800 d,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1904,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1944,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1960,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="1976,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="2056,80"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="2072,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="2072,144"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="2088,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="2088,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="2104,80"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="2696,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="2712,144"
+  Width="16"
+  Height="16"
+/>
+
+<SingleCoin
+  Center="2728,144"
+  Width="16"
+  Height="16"
+/>
+
+<Wall
+  Center="2744,144"
+  Width="16"
+  Height="16"
+/>
